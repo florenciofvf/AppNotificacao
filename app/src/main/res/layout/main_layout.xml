@@ -19,4 +19,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
+    <View
+        android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="3dp" />
+
+    <Button
+        android:onClick="baixarImagem"
+        android:text="Baixar Imagem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
